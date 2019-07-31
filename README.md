@@ -32,3 +32,5 @@ Server နာမည်များကို ပျူမြို့ပြနာ
         <td>14000</td>
     </tr>
 </table>
+
+![](pic/homepage.png)
