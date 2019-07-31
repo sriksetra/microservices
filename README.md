@@ -6,11 +6,11 @@ Microservice စမ်းသုံးဖို့အတွက် တစ်ခေ
 Server နာမည်များကို ပျူမြို့ပြနာမည် များဖြင့်မှည့်သွားပါမည်။ ရည်ရွယ်ချက်ကတော့ နည်းပညာလေ့လာရင်း သမိုင်းကိုလည်း လေ့လာနိုင်ရန်အတွက်ပါ။
 
 <table>
-    <th>
-        <td>Server</td>
-        <td>Name</td>
-        <td>Port</td>
-    </th>
+    <tr>
+        <th>Server</td>
+        <th>Name</td>
+        <th>Port</td>
+    </tr>
     <tr>
         <td>Config</td>
         <td>Beikthano</td>
